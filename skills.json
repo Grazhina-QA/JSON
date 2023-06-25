@@ -1,0 +1,20 @@
+{
+"s1": "1. SDLC, STLC",
+"s2": "2. HTTP",
+"s3": "3. JSON, XML",
+"s4": "4. API, POSTMAN",
+"s5": "5. Charles, Fiddler",
+"s6": "6. DevTools",
+"s7": "7. VPN",
+"s8": "8. Mobile Testing sniffering using Charles and Fiddler",
+"s9": "9. iOS and Android Guidelines",
+"s10": "10. Android Studio",
+"s11": "11. ADB",
+"s12": "12. Proxy and VPN settings on iOS and Android",
+"s13": "13. Terminal (Linux)",
+"s14": "14. Bash Script",
+"s15": "15. SQL",
+"s16": "16. Redis",
+"s17": "17.Jmeter",
+"s18": "18. Scrum"
+}
