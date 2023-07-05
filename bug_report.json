@@ -1,16 +1,29 @@
 {
-"title": "Title: The text on the page [Compliance and Legals] is displayed in bold and underlined when switching to AR",
+"id": "ID:  274",
 
+"severity": "Severity:  Trivial",
+
+"enviroment": "Enviroment:",
+"e1": "Win 11, Chrome 113",
+"e2": "Win 10 pro, Chrome 113, 114", 
+"e3": "macOS 13.3.1, Safari 16.4",
+"e4": "Xiaomi 11T, Android 13, Chrome 110", 
+"e5": "iPhone 12, Safari 16.5, Chrome 114", 
+"e6": "iPhone 11, Safari 16.5, Chrome 114",
+
+"title": "Title:  Empty image-holder in menu section [Education] in block [Trading psychology guide]",
+  
 "step": "Steps:",
 "s1": "1. Navigate to capital.com",
-"s2": "2. Hover the cursor over Menu section [More]",
-"s3": "3. Click on the Menu item [Compliance and Legals]",
-"s4": "4. Select language AR",
-"s5": "5. Scroll down",
+"s2": "2. Hover to menu section [Education]",
+"s3": "3. Click the menu item [Trading psychology guide]",
+"s4": "4. Scroll down to the block 'Hindsight Bias'",
+"s5": "5. Scroll down to the block 'Recency Bias'",
+"s6": "6. Scroll down to the block 'Endowment effect'",
 
-"expected": "Expected Result: The text in the paragraphs on the page [Compliance and Legals] has the same font when switching to AR The text is wrapped in (p)", 
+"expected": "In block [Trading psychology guide] image-holders contain a picture", 
 
-"actual": "Actual Result: The text on the page [Compliance and Legals] is in bold and underlined when switching to AR The text is wrapped in (u> and (strong)",
+"actual": "In block [Trading psychology guide] image-holder is empty",
 
 "license": "License: ALL",
 
